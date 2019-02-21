@@ -1,12 +1,11 @@
 class Vehicle
   
-  attr_accessible :wheel_size
+  attr_accessible :wheel_size, :wheel_number
 
-  def initialize(wheelsize,number)
+  def initialize(wheelsize, wheelnumber)
     @wheel_size = wheelsize
-    @number = number
+    @wheel_number = number
   end
 
-  
 
 end
