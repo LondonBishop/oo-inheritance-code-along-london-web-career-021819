@@ -16,7 +16,9 @@ class Vehicle
   end
 
   def go
-    return
+    return 'vrrrrrrrooom!'
   end
+  
+  
   
 end
