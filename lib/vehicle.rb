@@ -15,4 +15,7 @@ class Vehicle
      @wheel_number
   end
 
+  def go
+    
+end
 end
