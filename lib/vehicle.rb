@@ -16,6 +16,7 @@ class Vehicle
   end
 
   def go
-    
-end
+    return
+  end
+  
 end
